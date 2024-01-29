@@ -19,7 +19,7 @@ config-version: "@version@"
 # Put here the language that you want to use!
 # A list of all the possible languages can be found here: https://github.com/Picono435/PicoJobs/tree/master/src/main/resources/langs
 # The translations can be INCORRECT or INCOMPLETE because they are made by the community, but you can always change them.
-lang: "en-GB"
+lang: "fr-FR"
 # Here you can put the name of your server, this message will appier in the start of all messages. To disable just put nothing.
 prefix: "&6[PicoJobs] "
 # Here you can enable/disable the update checker
